@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Os5+RztzM6+EWrzJx0ZvyttC6ZYTmX6wfXyw6NjuZriTk9DQm4k8HO7JX3ckIKNS465Sdl+pDLRSsV+Zz50bXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JamieHighfield\\source\\repos\\DapperExtensions\\DapperExtensions.Hosting\\DapperExtensions.Hosting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JamieHighfield\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\JamieHighfield\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.csproj.AssemblyReference.cache
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.AssemblyInfoInputs.cache
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.AssemblyInfo.cs
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.csproj.CoreCompileInputs.cache
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\bin\Debug\net5.0\DapperExtensions.deps.json
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\bin\Debug\net5.0\DapperExtensions.dll
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\bin\Debug\net5.0\ref\DapperExtensions.dll
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\bin\Debug\net5.0\DapperExtensions.pdb
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.dll
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\ref\DapperExtensions.dll
+C:\Users\JamieHighfield\source\repos\DapperExtensions\DapperExtensions\obj\Debug\net5.0\DapperExtensions.pdb

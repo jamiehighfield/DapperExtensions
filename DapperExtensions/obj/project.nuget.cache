@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "byOfn9bT4ZAFacxWt24Qvocit2sgU11Af+W3cSssKMtGVqpkDMbYoTu2odUZbWLTpLiCMbinEmtDE47zY7tZGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JamieHighfield\\source\\repos\\DapperExtensions\\DapperExtensions\\DapperExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JamieHighfield\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
